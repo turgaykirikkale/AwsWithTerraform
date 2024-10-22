@@ -4,7 +4,7 @@ When you move between services folder and if you wanna see how it works,
 
 you need to use these commands.
 
-Each folder inside which inside of the services folder, firstly you need to add to root main.tf
+Each folder which inside of the services folder, firstly you need to add to root main.tf
 
 1.aws access key 
 2.aws secret key
