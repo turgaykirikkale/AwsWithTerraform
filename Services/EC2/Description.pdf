@@ -1,0 +1,25 @@
+EC2=>
+
+An EC2 instance is a virtual server running on Amazon Web Services (AWS).
+ Amazon EC2 (Elastic Compute Cloud) allows users to create virtual servers (instances) with various configurations based on their needs.
+  These instances function similarly to a physical server but are hosted on AWS’s cloud infrastructure.
+
+Key features of EC2 instances include:
+
+Various Operating Systems: They can run different operating systems, such as Windows or Linux.
+Scalability: Resources like CPU, memory, and storage can be increased or decreased as needed.
+Different Types: There are various instance types tailored to different needs, such as general-purpose, compute-optimized, 
+or memory-optimized instances.
+Flexibility: You can create, stop, start, or terminate an instance whenever needed.
+Security: EC2 instances are protected through security groups and network access control lists (ACLs).
+
+
+AMI =>
+
+AWS AMI (Amazon Machine Image) is a template used to create virtual servers (EC2 instances) on Amazon Web Services (AWS).
+An AMI includes an operating system, application software, and configurations. 
+With an AMI, you can quickly launch EC2 instances with a specific setup. AMIs generally contain the following components:
+
+Operating System: Operating systems such as Windows or Linux.
+Applications and Software: Pre-installed applications and software.
+Configuration Settings: Custom configurations like network and security settings.
